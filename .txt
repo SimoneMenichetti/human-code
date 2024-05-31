@@ -1,0 +1,144 @@
+Esercizio 5
+
+Comprare qualcosa su Amazon
+
+Il regalo perfetto
+Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacerebbe sorprenderla, so che le piaceva tanto quella lampada da tavolo così particolare, però la consegna non è Prime e non arriverebbe mai in tempo! Potrei optare per una bella stilografica ma sicuramente sforo il budget, forse è meglio optare per un buon libro: un classico ma so che con lei vado sul sicuro!
+Svolgimento:
+Mi ricordo che domani è il compleanno di Silvia
+Le voglio fare il regalo?
+Sì
+Prendo il cellulare
+Apro Whatsapp
+Creo un nuovo gruppo con gli amici di Silvia
+Aggiungo 10 persone
+Nomino il gruppo "Regalo Silvia 01/06"
+Metto come immagine del gruppo il faccione di Silvia
+Mando come primo messaggio nel gruppo "chi vuole fare il regalo a Silvia?"
+In 5 rispondo di sì e rimangono nel gruppo
+I 5 che hanno risposto di no escono
+Mando un messaggio chiedendo quale sia il budget
+Dopo vari messaggi ci si accorda per 10 euro a testa
+Viene proposta una lampada, sapendo che a Silvia piace
+Va bene la lampada?
+Sì
+Apro l'app di Amazon
+Cerco sulla barra di ricerca "lampada da tavolo"
+Sapendo che Silvia avrebbe voluto una lampada rosa a pois
+Clicco sull'articolo
+E' disponibile?
+Sì
+E' entro il budget?
+Sì
+Arriva entro domani?
+No
+Apro Whatsapp
+-Scrivo sul gruppo "Compleanno di Silvia" che la lampada non arriva entro domani-
+Chiedo altre proposte
+Si propone la stilografica
+Va bene a tutti?
+Sì
+Apro Amazon
+Cerco sulla barra di ricerca "Penna stilografica"
+Trovo 5 articoli interessanti
+-Apro Whatsapp-
+Condivido il link dei 5 articoli
+Creo un sondaggio per capire le preferenze
+Lista Penne
+Penna 1
+Piace?
+2 Sì 3 No
+Penna 2
+Piace?
+5 No
+Penna 3
+Piace?
+4 Sì 1 No
+Penna 4
+Piace?
+3 Sì 2 No
+Penna 5
+Piace?
+5 Sì
+Penna 1 Sì > Penna 2 Sì
+Penna 1 Sì > Penna 3 Sì
+Penna 3 Sì > Penna 4 Sì
+Penna 3 Sì > Penna 5 Sì
+Penna 5 Sì
+-Apro Amazon-
+Cerco Penna 5
+Apro l'articolo
+-E' disponibile?-
+Sì
+-E' entro il budget?-
+No
+-Arriva entro domani?-
+Sì
+-Apro Whatsapp-
+Chiedo sul gurppo se va bene andare fuori budget?
+No
+Le altre Penne sono fuori budget?
+Sì tranne la Penna 2
+Si vuole comprare la Penna 2?
+No
+Creo un sondaggio per capire cos altro regalare
+Lista possibili regali
+Pistola ad acqua
+Piace?
+5 No
+Libro?
+5 Sì
+Paperella di gomma di Boolean
+Piace?
+5 Sì
+Pistola ad acqua > Libro
+Libro > Paperella
+Libro = Paperella
+-Apro Amazon-
+Cerco Paperella di gomma di Boolean
+-E' disponibile?-
+Sì
+-E' entro il budget?-
+No
+-Arriva entro domani?-
+No
+Cerco Libro
+-E' disponibile?-
+Sì
+-E' entro il budget?-
+Sì
+-Arriva entro domani?-
+Sì
+-Apro Whatsapp-
+Faccio un sondaggio per chiedere il genere di libro
+Lista generi
+Fantasy
+Piace?
+5 No
+Giallo
+Piace?
+1 Sì 4 No
+Romance?
+5 Sì
+Classici?
+4 Sì 1 No
+Fantasy > Giallo
+Giallo > Romance
+Romance > Classici
+Romance
+-Apro Amazon-
+Cerco libro Romance
+-Apro l'articolo-
+-E' disponibile?-
+Sì
+-E' entro il budget?-
+Sì
+-Arriva entro domani?-
+Sì
+Compro il libro?
+Sì
+-Apro Whatsapp-
+Faccio sapere sul gruppo "regalo Silvia" che ho comprato il libro
+Condivido il mio nome utente Paypal per farmi rendere i soldi
+Mi restituiscono i soldi?
+Sì
